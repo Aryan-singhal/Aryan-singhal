@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://aryansinghalportfolio.000webhostapp.com/">
-    <img src="[https://img.shields.io/badge/PORTFOLIO-red](https://img.shields.io/badge/PORTFOLIO-red?style=for-the-badge&logo=googledocs&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-red?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 <!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
