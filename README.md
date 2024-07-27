@@ -24,10 +24,10 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 I’m a Pre-Final Year Student at IIT Roorkee and contributing to frontend and backend for building web applications.
+- 🌱 Exploring New Tech Innovations.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aryan-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/aryansinghal613/)
 
 ---
 
