@@ -12,7 +12,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=Aryan-singhal&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey There!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -30,7 +30,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryansinghal613/)
 
 ---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryan-singhal&theme=onedark" alt="dew-op" /></a> </p>
 
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -66,6 +68,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-singhal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan-singhal&show_icons=true&theme=dark&locale=en" alt="dew-op" /></p>
+
 
 </div>
 
